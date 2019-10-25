@@ -74,7 +74,7 @@ Bacteria[] k;
      ellipse(myX+12,myY-7,5,10);
      fill(0);
      noFill();
-     g.stroke = true;
+     stroke(0);
      arc(myX+3,myY+5,5,20,PI/2-1,PI);
      arc(myX-3,myY+5,5,20,0,PI/2+1);
      fill(255,182,193);
